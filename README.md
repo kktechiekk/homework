@@ -12,6 +12,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 2. cd homework
 3. run the command : npm install 
 4. run the command : ng serve
+5. Go to the browser & enter localhost:4200 in URL. Project will run
+6. Implemented the sort functionality also in table
 
 ## Build
 
