@@ -1,4 +1,4 @@
-# SpotdraftAngular
+# InspireAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
@@ -6,9 +6,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Steps to run the test
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. run the command : git clone https://github.com/kktechiekk/homework.git
+2. cd homework
+3. run the command : npm install 
+4. run the command : ng serve
 
 ## Build
 
