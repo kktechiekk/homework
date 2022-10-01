@@ -15,6 +15,10 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 5. Go to the browser & enter localhost:4200 in URL. Project will run
 6. Implemented the sort functionality also in table
 
+## why I choose this angular for this assignment
+Angular is a frontend javascript framework. I am good in it . Good in SPA (Single Page Applications)
+
+
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
